@@ -1,5 +1,5 @@
 <?php
 
-echo "Primeiro arquivo PHP. Hello Word!!"
+echo "Primeiro arquivo PHP. Olá mundo!!"
 
 ?>
